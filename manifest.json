@@ -1,0 +1,19 @@
+{
+  "name": "Portal Ganadero",
+  "short_name": "Ganadero",
+  "description": "Gestión ganadera — Estancias Patagonia",
+  "start_url": "/portal-ganadero/portal_ganadero.html",
+  "scope": "/portal-ganadero/",
+  "display": "standalone",
+  "background_color": "#1B5E20",
+  "theme_color": "#2E7D32",
+  "orientation": "any",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-152.png", "sizes": "152x152", "type": "image/png" },
+    { "src": "icon-120.png", "sizes": "120x120", "type": "image/png" }
+  ]
+}
